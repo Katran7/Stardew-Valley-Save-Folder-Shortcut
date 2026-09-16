@@ -1,0 +1,9 @@
+{
+    "Name": "Save Folder Shortcut",
+    "Author": "C.Katran",
+    "Version": "1.0",
+    "Description": "Adds a button to the main menu to open the saves",
+    "UniqueID": "C.Katran.SaveFolderShortcut",
+    "EntryDll": "SaveFolderShortcut.dll",
+    "MinimumApiVersion": "4.0.0"
+}

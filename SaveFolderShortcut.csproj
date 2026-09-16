@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>SaveFolderShortcut</AssemblyName>
+    <RootNamespace>SaveFolderShortcut</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    
+    <!-- Путь к игре (замени на свой, если игра не в стандартной папке) -->
+    <GamePath>G:\Windows OS\Windows 10 LTSC\Files\Stardew Valley</GamePath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.3.2" />
+  </ItemGroup>
+</Project>
